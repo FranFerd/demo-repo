@@ -4,5 +4,8 @@ Some description!
 
 #Subheader
 
-Some more text.
-and some more
+Watch tutorial on Youtube.
+
+#Local development 
+
+1. Open index.html in your browser.
